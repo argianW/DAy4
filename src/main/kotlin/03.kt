@@ -1,3 +1,4 @@
+//Buatlah script untuk menentukan suatu tahun merupakan tahun kabisat atau bukan.
 fun main() {
     var a = readLine()!!
     var b = a.toInt()
